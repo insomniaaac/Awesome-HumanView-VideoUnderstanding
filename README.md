@@ -9,7 +9,7 @@
     ·
     <strong>Yue Tan</strong>
     ·
-    <strong>Qi Xu</strong>
+    <a href="https://insomniaaac.github.io/"><strong>Qi Xu</strong></a>
     ·
     <strong>Kuan Gao</strong>
     ·
